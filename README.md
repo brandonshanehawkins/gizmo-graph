@@ -1,6 +1,11 @@
 # GizmoGraph
-## Real-time "Shane" translator
 ---
+
+<img width="256" height="256" alt="gizmoGraph" src="https://github.com/user-attachments/assets/b9a8036c-70cf-4871-be60-0c05602cc0b2" />
+
+---
+## Real-time "Shane" translator
+
 Mostly a gimmick, but it's got some potential, especially for an in-person setting.
 
 - Completely 'dumb', no AI integration, other than to help build it
@@ -13,3 +18,4 @@ Mostly a gimmick, but it's got some potential, especially for an in-person setti
  - ui updae
  - easier loading of topics
  - hosting somewhere to ease use?
+
